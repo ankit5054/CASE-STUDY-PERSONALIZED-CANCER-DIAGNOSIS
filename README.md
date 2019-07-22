@@ -33,7 +33,6 @@
           - training_text (ID, Text)
 #### 2.1.2. Example Data Point
 ##### training_variants
-# ____________________________________________________________________________________________________
         ID,Gene,Variation,Class
         0,FAM58A,Truncating Mutations,1 
         1,CBL,W802*,2 
