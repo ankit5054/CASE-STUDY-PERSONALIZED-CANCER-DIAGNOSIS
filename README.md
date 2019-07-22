@@ -76,7 +76,8 @@ Split the dataset randomly into three parts train, cross validation and test wit
 #### DISTRIBUTION OF DATA WITH RESPECT TO TARGET
 
 #####   Distribution of yi in train data
-      ![download](https://user-images.githubusercontent.com/39160589/61605329-fcd77400-ac6a-11e9-8588-f1aa4901b943.png)
+![download](https://user-images.githubusercontent.com/39160589/61605329-fcd77400-ac6a-11e9-8588-f1aa4901b943.png)
+        
         - Number of data points in class 7 : 609 ( 28.672 %)
         - Number of data points in class 4 : 439 ( 20.669 %)
         - Number of data points in class 1 : 363 ( 17.09 %)
@@ -87,7 +88,7 @@ Split the dataset randomly into three parts train, cross validation and test wit
         - Number of data points in class 9 : 24 ( 1.13 %)
         - Number of data points in class 8 : 12 ( 0.565 %)
 ####    Distribution of yi in test data
-      ![download1](https://user-images.githubusercontent.com/39160589/61605485-b33b5900-ac6b-11e9-95ce-0b3474831cd0.png)
+![download1](https://user-images.githubusercontent.com/39160589/61605485-b33b5900-ac6b-11e9-95ce-0b3474831cd0.png)
           - Number of data points in class 7 : 191 ( 28.722 %)
           - Number of data points in class 4 : 137 ( 20.602 %)
           - Number of data points in class 1 : 114 ( 17.143 %)
@@ -98,6 +99,7 @@ Split the dataset randomly into three parts train, cross validation and test wit
           - Number of data points in class 9 : 7 ( 1.053 %)
           - Number of data points in class 8 : 4 ( 0.602 %)
 ####     Distribution of yi in cross validation data
+![download2](https://user-images.githubusercontent.com/39160589/61605738-e7634980-ac6c-11e9-9e43-6524df5fb424.png)
           - Number of data points in class 7 : 153 ( 28.759 %)
           - Number of data points in class 4 : 110 ( 20.677 %)
           - Number of data points in class 1 : 91 ( 17.105 %)
